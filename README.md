@@ -81,6 +81,6 @@ Construyo **SaaS multi-tenant**, apps y webs con integraciones de pago, con foco
 
 ## 📊 Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzalogomezdev&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogomezdev&layout=compact&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzalogomezprojects&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalogomezprojects&layout=compact&hide_border=true" height="150" />
 </p>
