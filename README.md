@@ -5,12 +5,8 @@ Construyo **SaaS multi-tenant**, apps y webs con integraciones de pago, con foco
 - 🧰 Stack: TypeScript, Next.js (App Router), Tailwind/shadcn, Supabase (Auth/RLS), Prisma/Drizzle, Docker, Railway
 - 🧪 Me importan: DX, tests, CI/CD, accesibilidad y performance (LCP)
 
-## 🚀 Proyectos destacados
-- **Ticketing System** — prioridades, estados, reportes. [Repo](#) · [Demo](#)
-- **Next + Supabase RLS Starter** — boilerplate productivo. [Repo](#) · [Demo](#)
-
 ## 📬 Contacto
-[Web](https://gonzalogomezprojects.com) · [LinkedIn](#) · **proyectos@gonzalogomezprojects.com**
+[Web](https://gonzalogomezprojects.com) · [LinkedIn](#https://www.linkedin.com/in/gonzalogomezprojects/) · **proyectos@gonzalogomezprojects.com**
 
 ## 🧱 Tech stack
 <p align="left">
