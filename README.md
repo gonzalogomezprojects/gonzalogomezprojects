@@ -1,8 +1,9 @@
 # Hola, soy Gonzalo 👋
-**Full-Stack Dev | PM en GGPr & Silicon Misiones | CTO en Wikinbound**  
-Construyo **SaaS multi-tenant**, apps y webs con integraciones de pago, con foco en rendimiento.
+**Full-Stack Dev**  
+Tengo el privilegio de trabajar como Project Manager IT y Software Developer en Silicon Misiones, además de ser CTO en Wikinbound.
+Construyo **Apps, Webs, y SaaS multi-tenant**, con difernetes integraciones con foco en rendimiento, escalabilidad e interoperabilidad estrategica.
 
-- 🧰 Stack: TypeScript, Next.js (App Router), Tailwind/shadcn, Supabase (Auth/RLS), Prisma/Drizzle, Docker, Railway
+- 🧰 Stack: TypeScript, Next.js (App Router), Tailwind/shadcn, Supabase (Auth/RLS), Prisma, Laravel, Docker, Railway, Vercel.
 - 🧪 Me importan: DX, tests, CI/CD, accesibilidad y performance (LCP)
 
 ## 📬 Contacto
