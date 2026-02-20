@@ -81,9 +81,9 @@ Secure mobile client with JWT authentication, API integration, and real-time syn
 
 ## Leadership
 
-Founder/Leadership at Sarit Startup
-CTO at Wikinbound  
-Product Developer at Silicon Misiones  
+- Founder/Leadership at Sarit Startup
+- CTO at Wikinbound  
+- Product Developer at Silicon Misiones  
 
 Leading teams and building scalable digital ecosystems.
 
